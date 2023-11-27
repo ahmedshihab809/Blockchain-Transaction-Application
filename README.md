@@ -40,25 +40,25 @@ Experience the future of transactions with our React and Web3-powered applicatio
 
 ## Demonstration
 
-#### Home Screem
+### Home Screen
 ![Screenshot (3)](https://github.com/ahmedshihab809/Blockchain-Transaction-Application/assets/57572719/8fce0441-36e8-4316-9ec0-3c38f12b9d26)
 
 
-#### Connect wallet
+### Connect wallet
 
 ![Screenshot (4)](https://github.com/ahmedshihab809/Blockchain-Transaction-Application/assets/57572719/b7de13f0-fa4b-4631-8d10-0864375d8c37)
 ![Screenshot (7)](https://github.com/ahmedshihab809/Blockchain-Transaction-Application/assets/57572719/2ad40c0a-3719-4419-b16b-09f530000bc9)
 ![Screenshot (5)](https://github.com/ahmedshihab809/Blockchain-Transaction-Application/assets/57572719/ec0c3b2b-4136-4415-8efa-0b7feb69a669)
 
 
-#### Send Transaction
+### Send Transaction
 ![Screenshot (8)](https://github.com/ahmedshihab809/Blockchain-Transaction-Application/assets/57572719/da2aa128-d598-4199-b4b2-bceaf6974f62)
 
-#### Transaction Verification
+### Transaction Verification
 
 ![Screenshot (8)](https://github.com/ahmedshihab809/Blockchain-Transaction-Application/assets/57572719/ee155a49-6326-43af-945e-075138cc820b)
 
-#### Transactions List
+### Transactions List
 
 https://user-images.githubusercontent.com/61306531/231865503-c034544a-a1ea-4ec6-9ee8-05fc2fd4a90f.mp4
 ![Screenshot (12)](https://github.com/ahmedshihab809/Blockchain-Transaction-Application/assets/57572719/eddbe35c-bc66-4a14-9faf-1b351f3ac226)
